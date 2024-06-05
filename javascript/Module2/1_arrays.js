@@ -17,4 +17,4 @@ arr[2]='bentley'
 
 console.log(arr)
 
-console.log(arr.length)
+console.log("array length is: ",arr.length)
