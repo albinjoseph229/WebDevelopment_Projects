@@ -2,4 +2,8 @@
 var person={
     firstname:'John',
     lastname:'Doe',
+    age:50,
+    ownsCar:false,
 }
+
+console.log(person);
