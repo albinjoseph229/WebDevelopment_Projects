@@ -34,3 +34,4 @@ console.log(man)
 console.log(man.friends[1])//value inside array
 
 console.log(man.address.street)//value inside the address object
+
