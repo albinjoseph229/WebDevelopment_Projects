@@ -35,3 +35,11 @@ console.log(man.friends[1])//value inside array
 
 console.log(man.address.street)//value inside the address object
 
+man.car="AUDI"
+
+console.log(man.car)
+
+delete man.age
+
+//to delete any property
+console.log(man)
