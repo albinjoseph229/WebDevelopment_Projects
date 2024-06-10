@@ -14,3 +14,11 @@ var colors=['red','green','yellow','blue']
 for(var[index, color]of colors.entries()){
    console.log(index+'->'+color) 
 }
+
+var str="hello"
+
+//for acessing every character of a string
+
+for(var c of str){
+    console.log(c)
+}
